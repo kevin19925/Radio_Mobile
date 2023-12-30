@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>v1_1.bmp</name><color>88ffffff</color><Icon>
+<href>v1_1.bmp</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> .8748583</north>
+<south>-1.374858</south>
+<east>-89.87513</east>
+<west>-92.12487</west>
+</LatLonBox></GroundOverlay></kml>
