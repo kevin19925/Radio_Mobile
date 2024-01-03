@@ -16,9 +16,15 @@ Enlace_Cerro_Aeropuerto
 2
 8	omni.ant
 15	0.2
-Enlace Periférico
+Enlace Central
 50
 3,1623
+2
+18	yagi.ant
+24	0,2
+Enlace Periférico
+100
+3,1623
 0,5
-4	omni.ant
-15	0,2
+8	omni.ant
+10	0,2

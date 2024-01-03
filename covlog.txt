@@ -1,0 +1,15 @@
+Radio Mobile 01-03-2024 08:44:06
+Cobertura polar centrada en Antena_Crocker_Baltr
+El área cubierta es 6872 km cuadrado sobre ..\Imagen1.bmp
+Radio Mobile 01-03-2024 08:46:51
+Cobertura polar centrada en Antena_Crocker_Villa
+El área cubierta es 6369 km cuadrado sobre ..\Imagen2.bmp
+Radio Mobile 01-03-2024 08:48:27
+Cobertura polar centrada en Antena_Crocker_Ayora
+El área cubierta es 6377 km cuadrado sobre ..\Imagen3.bmp
+Radio Mobile 01-03-2024 08:49:46
+Cobertura polar centrada en Antena_Crocker_Ayora
+El área cubierta es 6367 km cuadrado sobre ..\Imagen4.bmp
+Radio Mobile 01-03-2024 08:54:09
+Cobertura polar centrada en Antena_Crocker_Moren
+El área cubierta es 6252 km cuadrado sobre ..\Imagen5.bmp
