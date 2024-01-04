@@ -1,30 +1,93 @@
-Radio Mobile 01-03-2024 18:36:24
-Cobertura polar centrada en Antena_cerro_San_Joa
-El área cubierta es 264 km cuadrado sobre ..\Imagen2.bmp
-Radio Mobile 01-03-2024 18:50:43
+Radio Mobile 01-04-2024 11:53:51
 Cobertura polar centrada en Antena_Cerro_Crocker
-El área cubierta es 6073 km cuadrado sobre ..\Imagen4.bmp
-Radio Mobile 01-03-2024 18:51:47
-Cobertura polar centrada en Antena_Cerro_Crocker
-El área cubierta es 846 km cuadrado sobre ..\Imagen6.bmp
-Radio Mobile 01-03-2024 18:52:52
-Cobertura polar centrada en Antena_Cerro_Crocker
-El área cubierta es 3400 km cuadrado sobre ..\Imagen8.bmp
-Radio Mobile 01-03-2024 19:06:00
-Cobertura polar centrada en Antena_santo_thomas 
-El área cubierta es 810 km cuadrado sobre ..\Imagen10.bmp
-Radio Mobile 01-03-2024 19:07:22
-Cobertura polar centrada en Antena_santo_thomas 
-El área cubierta es 2255 km cuadrado sobre ..\Imagen12.bmp
-Radio Mobile 01-03-2024 19:14:07
+El área cubierta es 7654 km cuadrado sobre ..\Imagen3.bmp
+Radio Mobile 01-04-2024 11:54:19
 Cobertura polar centrada en Antena_Aeropuerto_Ba
-El área cubierta es 6403 km cuadrado sobre ..\Imagen15.bmp
-Radio Mobile 01-03-2024 19:18:24
+El área cubierta es 6361 km cuadrado sobre ..\Imagen4.bmp
+Radio Mobile 01-04-2024 12:01:54
+Cobertura polar centrada en Antena_Cerro_Crocker
+El área cubierta es 7659 km cuadrado sobre ..\v4.bmp
+Radio Mobile 01-04-2024 12:02:27
+Cobertura polar centrada en Antena_puerto_Villam
+El área cubierta es 4988 km cuadrado sobre ..\Imagen5.bmp
+Radio Mobile 01-04-2024 12:08:25
+Cobertura polar centrada en Antena_Cerro_Crocker
+El área cubierta es 7647 km cuadrado sobre ..\Imagen7.bmp
+Radio Mobile 01-04-2024 12:08:45
+Cobertura polar centrada en Antena_Puerto_ayora 
+El área cubierta es 4600 km cuadrado sobre ..\Imagen8.bmp
+Radio Mobile 01-04-2024 12:15:45
+Cobertura polar centrada en Antena_volcano_sierr
+El área cubierta es 3856 km cuadrado sobre ..\Imagen9.bmp
+Radio Mobile 01-04-2024 12:16:03
+Cobertura polar centrada en Antena_Aeropuerto_Ba
+El área cubierta es 6422 km cuadrado sobre ..\Imagen10.bmp
+Radio Mobile 01-04-2024 12:17:05
+Cobertura polar centrada en Antena_Cerro_Crocker
+El área cubierta es 7563 km cuadrado sobre ..\Imagen11.bmp
+Radio Mobile 01-04-2024 12:17:30
+Cobertura polar centrada en Antena_cerro_San_Joa
+El área cubierta es 3738 km cuadrado sobre ..\Imagen12.bmp
+Radio Mobile 01-04-2024 12:21:04
+Cobertura polar centrada en Antena_volcano_sierr
+El área cubierta es 3818 km cuadrado sobre ..\Imagen13.bmp
+Radio Mobile 01-04-2024 12:21:25
+Cobertura polar centrada en Antena_Puerto_ayora 
+El área cubierta es 4653 km cuadrado sobre ..\Imagen14.bmp
+Radio Mobile 01-04-2024 12:24:43
+Cobertura polar centrada en Antena_volcano_sierr
+El área cubierta es 3686 km cuadrado sobre ..\Imagen15.bmp
+Radio Mobile 01-04-2024 12:25:05
+Cobertura polar centrada en Antena_puerto_Villam
+El área cubierta es 5227 km cuadrado sobre ..\Imagen16.bmp
+Radio Mobile 01-04-2024 12:28:08
+Cobertura polar centrada en Antena_volcano_sierr
+El área cubierta es 3843 km cuadrado sobre ..\Imagen17.bmp
+Radio Mobile 01-04-2024 12:28:20
 Cobertura polar centrada en Antena_Isla_Floreana
-El área cubierta es 2756 km cuadrado sobre ..\Imagen16.bmp
-Radio Mobile 01-03-2024 19:19:01
+El área cubierta es 2893 km cuadrado sobre ..\Imagen18.bmp
+Radio Mobile 01-04-2024 12:32:23
+Cobertura polar centrada en Antena_Cerro_ niño  
+El área cubierta es 4700 km cuadrado sobre ..\Imagen19.bmp
+Radio Mobile 01-04-2024 12:32:44
+Cobertura polar centrada en Antena_aeropuerto_sa
+El área cubierta es 5889 km cuadrado sobre ..\Imagen20.bmp
+Radio Mobile 01-04-2024 12:36:02
+Cobertura polar centrada en Antena_Cerro_ niño  
+El área cubierta es 4532 km cuadrado sobre ..\Imagen21.bmp
+Radio Mobile 01-04-2024 12:36:18
+Cobertura polar centrada en Antena_Puerto_ayora 
+El área cubierta es 4764 km cuadrado sobre ..\Imagen22.bmp
+Radio Mobile 01-04-2024 12:53:29
+Cobertura polar centrada en Antena_Cerro_ niño  
+El área cubierta es 4676 km cuadrado sobre ..\Imagen23.bmp
+Radio Mobile 01-04-2024 12:53:44
+Cobertura polar centrada en Antena_Aeropuerto_Ba
+El área cubierta es 6400 km cuadrado sobre ..\Imagen24.bmp
+Radio Mobile 01-04-2024 12:56:59
+Cobertura polar centrada en Antena_Aeropuerto_Ba
+El área cubierta es 6320 km cuadrado sobre ..\Imagen25.bmp
+Radio Mobile 01-04-2024 12:57:30
+Cobertura polar centrada en Antena_Cerro_ niño  
+El área cubierta es 4676 km cuadrado sobre ..\Imagen26.bmp
+Radio Mobile 01-04-2024 13:02:02
+Cobertura polar centrada en Antena_Aeropuerto_Ba
+El área cubierta es 6375 km cuadrado sobre ..\Imagen27.bmp
+Radio Mobile 01-04-2024 13:02:21
+Cobertura polar centrada en Antena_Cerro_Crocker
+El área cubierta es 7699 km cuadrado sobre ..\Imagen28.bmp
+Radio Mobile 01-04-2024 13:10:49
+Cobertura polar centrada en Antena_Aeropuerto_Ba
+El área cubierta es 6410 km cuadrado sobre ..\Imagen29.bmp
+Radio Mobile 01-04-2024 13:11:10
+Cobertura polar centrada en Antena_volcano_sierr
+El área cubierta es 3807 km cuadrado sobre ..\Imagen30.bmp
+Radio Mobile 01-04-2024 13:17:25
 Cobertura polar centrada en Antena_Isla_Floreana
-El área cubierta es 2794 km cuadrado sobre ..\Imagen18.bmp
-Radio Mobile 01-03-2024 19:20:19
+El área cubierta es 2772 km cuadrado sobre ..\Imagen31.bmp
+Radio Mobile 01-04-2024 13:17:36
 Cobertura polar centrada en Antena_Isla_Floreana
-El área cubierta es 1724 km cuadrado sobre ..\Imagen20.bmp
+El área cubierta es 2772 km cuadrado sobre ..\Imagen32.bmp
+Radio Mobile 01-04-2024 13:17:54
+Cobertura polar centrada en Antena_Cerro_ niño  
+El área cubierta es 4505 km cuadrado sobre ..\Imagen33.bmp
