@@ -3,8 +3,8 @@
 <GroundOverlay><name>Imagen6.bmp</name><color>88ffffff</color><Icon>
 <href>Imagen6.bmp</href>
 <viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
-<north> 1.09983</north>
-<south>-1.59983</south>
-<east>-89.10968</east>
-<west>-92.89032</west>
+<north>-.5523269</north>
+<south>-.7772985</south>
+<east>-90.1547</east>
+<west>-90.46978</west>
 </LatLonBox></GroundOverlay></kml>
